@@ -1,0 +1,13 @@
+{
+  "name": "claude-cowork-viral-video-skill",
+  "owner": {
+    "name": "jhaArnav"
+  },
+  "plugins": [
+    {
+      "name": "viral-mortgage-hooks",
+      "source": "./viral-mortgage-hooks",
+      "description": "Mine mortgage and real estate short-form content patterns from seed creators. Produces ranked hook patterns, script templates, editing checklists, and weekly posting plans for loan officers and mortgage pros."
+    }
+  ]
+}

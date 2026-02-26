@@ -20,25 +20,11 @@ A [Claude Cowork](https://claude.com/product/cowork) plugin that mines mortgage 
 
 3. **First run:** In your Cowork workspace, run `npm install` once so the hook miner script can run. You can ask Claude: *"Run npm install in the viral mortgage hooks plugin folder"*.
 
-### Option 2: Claude Code (CLI)
+### Option 2: Add as Marketplace (Claude Code / Cowork)
 
-```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/cowork-viral-mortgage-hooks.git
-
-# Add as a plugin marketplace (if using Claude Code)
-claude plugin marketplace add YOUR_USERNAME/cowork-viral-mortgage-hooks
-
-# Install the plugin
-claude plugin install viral-mortgage-hooks@YOUR_USERNAME/cowork-viral-mortgage-hooks
-```
-
-### Option 3: Direct from GitHub URL
-
-If Cowork supports adding plugins from a GitHub URL, you can use:
-```
-https://github.com/YOUR_USERNAME/cowork-viral-mortgage-hooks
-```
+1. In Cowork: **Settings** → **Plugins** → **Add marketplace from GitHub**
+2. Enter: `jhaArnav/claude-cowork-viral-video-skill`
+3. After the marketplace is added, install the plugin: `viral-mortgage-hooks`
 
 ## What It Does
 

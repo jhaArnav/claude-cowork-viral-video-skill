@@ -1,0 +1,13 @@
+{
+  "name": "viral-mortgage-hook-miner",
+  "version": "1.0.0",
+  "description": "Compliant hook miner for mortgage/real estate short-form content",
+  "type": "module",
+  "scripts": {
+    "mine": "tsx tools/hook_miner.ts inputs.json"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  }
+}

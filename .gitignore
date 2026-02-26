@@ -1,0 +1,4 @@
+node_modules/
+hook_miner_out/
+*.log
+.DS_Store

@@ -1,0 +1,20 @@
+{
+  "geo": "Miami",
+  "niche": "mortgage + real estate",
+  "seedCreators": [
+    "https://www.tiktok.com/@the.mortgage.mentor",
+    "https://www.instagram.com/broker_nailan",
+    "https://www.instagram.com/itssashav",
+    "https://www.instagram.com/chrislendz",
+    "https://www.instagram.com/themortgagenerd",
+    "https://www.instagram.com/mattweaverspeaks"
+  ],
+  "discoveredPostUrls": [
+    {"platform": "instagram", "url": "https://www.instagram.com/broker_nailan/", "creator": "broker_nailan"},
+    {"platform": "instagram", "url": "https://www.instagram.com/itssashav/", "creator": "itssashav"},
+    {"platform": "instagram", "url": "https://www.instagram.com/chrislendz/", "creator": "chrislendz"},
+    {"platform": "instagram", "url": "https://www.instagram.com/themortgagenerd/", "creator": "themortgagenerd"},
+    {"platform": "instagram", "url": "https://www.instagram.com/mattweaverspeaks/", "creator": "mattweaverspeaks"},
+    {"platform": "tiktok", "url": "https://www.tiktok.com/@the.mortgage.mentor", "creator": "the.mortgage.mentor"}
+  ]
+}

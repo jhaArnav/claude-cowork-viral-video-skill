@@ -15,7 +15,7 @@ A [Claude Cowork](https://claude.com/product/cowork) plugin that mines mortgage 
    - Open **Claude Cowork** (desktop app)
    - Go to **Settings** → **Plugins** (or **Capabilities** → **Plugins**)
    - Click **Upload plugin** or **Add plugin**
-   - Select the `cowork-viral-mortgage-hooks` folder (the unzipped folder)
+   - Select the `viral-mortgage-hooks` subfolder (inside the unzipped repo)
    - Enable the plugin
 
 3. **First run:** In your Cowork workspace, run `npm install` once so the hook miner script can run. You can ask Claude: *"Run npm install in the viral mortgage hooks plugin folder"*.
